@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JakubMrazek
 - 👀 I’m interested in Coding in Python
 - 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on interesting project
+- 💞️ I’m looking for collaborating on interesting projects
 - 📫 How to reach me : via email: kuba.mrazek96@gmail.com
 
 <!---
